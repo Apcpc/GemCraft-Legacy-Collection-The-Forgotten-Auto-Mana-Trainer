@@ -1,0 +1,21 @@
+GemCraft Legacy Collection — The Forgotten Auto Mana Trainer 0.1.1
+Automatic mana refills for The Forgotten in GemCraft Legacy Collection. Launch the game, enter a map and press Start in the trainer.
+The trainer continuously reads your current and maximum mana. Whenever mana drops below 50% of the available pool, it automatically refills it to 95% of the current maximum. Both the threshold and refill target adjust when you expand the pool in the game.
+Features
+- Live display of current and maximum mana, refreshed every 0.25 seconds.
+- Automatic refills: below 50% → 95%.
+- Start and Stop controls.
+- Automatic game process detection and object detection again after map changes.
+- No manual memory addresses or mana values required.
+- 10 interface languages selectable by flag: Polish, English, German, French, Spanish, Portuguese, Russian, Simplified Chinese, Japanese and Hindi.
+- Remembers your selected language.
+- Standalone EXE for 64-bit Windows, approximately 7.4 MB. No Python or additional library installation required.
+How to use
+1. Launch GemCraft Legacy Collection and select The Forgotten.
+2. Enter a map.
+3. Run GemCraft_The_Forgotten_Auto_Mana_Trainer_0.1.1.exe and press Start.
+4. Press Stop or close the trainer to stop automatic refills.
+The trainer refills mana within your current maximum pool. It is intended for The Forgotten in Legacy Collection. The standalone EXE has been confirmed working by the user on Windows.
+Created by Apcpc / Contact — Discord
+Short description
+Auto Mana Trainer 0.1.1 for The Forgotten in GemCraft Legacy Collection. Refills mana to 95% of the current maximum whenever it drops below 50%. Start/Stop controls, live mana display, 10 languages and a standalone 64-bit Windows EXE with no additional library installation. Created by Apcpc / Contact — Discord.
